@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">figura</string>
+    <string name="base">base</string>
+    <string name="altura">altura</string>
+    <string name="radio">radio</string>
+    <string name="triangulo">triangulo</string>
+    <string name="circulo">circulo</string>
+    <string name="rectangulo">rectangulo</string>
+    <string name="boton">calcular area</string>
+    <string name="acerca">acerca</string>
+    <string name="salir">salir</string>
+</resources>

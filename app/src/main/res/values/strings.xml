@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">mypplicationfigura</string>
+    <string name="tv1" translatable="false">base</string>
+    <string name="tv2" translatable="false">altura</string>
+    <string name="tv5" translatable="false">radio</string>
+    <string name="r1" translatable="false">triangulo</string>
+    <string name="r2" translatable="false">circulo</string>
+    <string name="r3" translatable="false">rectangulo</string>
+    <string name="button" translatable="false">calcular area</string>
+    <string name="acerca" translatable="false">acerca</string>
+    <string name="salir" translatable="false">salir</string>
+</resources>

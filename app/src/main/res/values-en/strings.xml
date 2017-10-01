@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">figura</string>
+    <string name="tv1">base</string>
+    <string name="tv2">height</string>
+    <string name="tv5">radio</string>
+    <string name="r1">triangle</string>
+    <string name="r2">circle</string>
+    <string name="r3">rectangle</string>
+    <string name="button">calculation area</string>
+    <string name="acerca">about</string>
+    <string name="salir">exit</string>
+</resources>
